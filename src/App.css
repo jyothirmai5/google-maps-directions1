@@ -1,0 +1,18 @@
+.header-block {
+    margin: auto;
+    width: 40%;
+    text-align: center;
+}
+
+.stack {
+    margin: auto;
+    width: 40% !important;
+}
+
+.button-group {
+    margin-top: 40px;
+}
+
+.m-left {
+    margin-left: 20px;
+}
